@@ -30,7 +30,7 @@ plugins:
 
 google_analytics: UA-50241920-7
 disqus:
-  shortname: toanha
+  shortname: rubikill-github-io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
