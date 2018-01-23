@@ -28,6 +28,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+google_analytics: UA-50241920-7
+disqus:
+  shortname: toanha
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
